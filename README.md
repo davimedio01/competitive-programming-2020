@@ -1,8 +1,8 @@
-# Programação Competitiva
+# Competitive Programming 2020
 
-Contém exercícios resolvidos das disciplinas de Programação Competitiva I e II da UNESP Bauru, dadas por LPC-I e LPC-II, respectivamente.
+It contains solved exercises from the Competitive Programming I and II disciplines of UNESP Bauru in 2020, given by LPC-I and LPC-II, respectively.
 
-# Equipe
+# Team of SBC XXV Programming Marathon: Amigos do Davizaum
 [Davi Augusto Neves Leite](https://github.com/davimedio01)<br/>
 [Giovani Candido](https://github.com/giovcandido)<br/>
 [Luiz Fernando Merli de Oliveira Sementille](https://github.com/luiz502)<br/>
